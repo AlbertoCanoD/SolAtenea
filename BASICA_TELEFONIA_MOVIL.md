@@ -34,5 +34,17 @@ Se realiza lo mismo que en el paso anterior, pero se debe cambiar el PIN por el 
 
 ### Permisos 2
 
+Observando el archivo vemos que el permiso CAMERA no tiene mucho sentido en una app para ver el tiempo
+
+### Permisos 3
+
+Para decompilar la app se instala [APKTOOL](https://ibotpeaches.github.io/Apktol/install/)
+
+Y se observa que el permiso que no está es -> RECORD_AUDIO
+
+### Credenciales
+
+TODO
+
 
 
