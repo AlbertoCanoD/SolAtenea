@@ -46,3 +46,56 @@ Para traducir de los valores ASCII a los caracteres se puede utilizar un mini-sc
 Para convertir de hexadecimal a caracteres podemos usar el paquete [xxd](https://linux.die.net/man/1/xxd).
 
 `echo -n "50617373776f72643a2044346d7054686548337821" | xxd -r -p`
+
+### Xor
+
+No encuentro solución
+
+---
+
+## Básica: red
+
+### Modelo TCP/IP
+
+
+
+### Dirección IP
+
+
+
+### Dirección IPv6
+
+
+
+### Direcciones IP privadas y públicas
+
+
+
+### DHCP
+
+
+
+### Máscara de red
+
+
+
+### Máscara de red 2
+
+
+
+### MAC
+
+
+
+### Puerto
+
+El puerto de HTTP es el 80
+
+### Puerto 2
+
+El puerto de HTTPS es 443
+
+### Puerto 3
+
+
+
