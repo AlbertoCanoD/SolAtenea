@@ -2,79 +2,15 @@
 
 Soluciones y razonamientos de los retos de [Atenea del CCN-CERT](https://atenea.ccn-cert.cni.es/home)
 
----
+## [Básica](https://github.com/AlbertoCanoD/SolAtenea/blob/a326f02b9b0775106a99164008e7f42810a2be26/BASICA.md)
 
-## [BÁSICA](https://github.com/AlbertoCanoD/SolAtenea/blob/a326f02b9b0775106a99164008e7f42810a2be26/BASICA.md)
 
----
+## [Básica: red](https://github.com/AlbertoCanoD/SolAtenea/blob/71bdf799a4c9ad43ba3958ecc871bdcce76a99b6/BASICA_RED.md)
 
-## Básica: red
 
-### Modelo TCP/IP
+## [Básica: telefonía móvil](https://github.com/AlbertoCanoD/SolAtenea/blob/d2b3cd5f83d2c9edb4e0d1f3f3edfd97e6130311/BASICA_TELEFONIA_MOVIL.md)
 
 
 
-### Dirección IP
-
-
-
-### Dirección IPv6
-
-
-
-### Direcciones IP privadas y públicas
-
-
-
-### DHCP
-
-
-
-### Máscara de red
-
-
-
-### Máscara de red 2
-
-
-
-### MAC
-
-
-
-### Puerto
-
-El puerto de HTTP es el 80
-
-### Puerto 2
-
-El puerto de HTTPS es 443
-
-### Puerto 3
-
-
----
-
-## Básica: telefonía móvil
-
-### Introducción
-
-Android
-
-### Versiones
-
-Nougat
-
-### Nombre Interno
-
-12
-
-### Permisos
-
-AndroidManifest.xml
-
-### Código PIN
-
-Se utiliza la herramienta [Nyuki Android Lock Cracker](https://github.com/georgenicolaou/androidlockcracker) para descifrar el PIN
 
 
