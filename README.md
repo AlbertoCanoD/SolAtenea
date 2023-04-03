@@ -1,6 +1,6 @@
 # SolAtenea
 
-Soluciones y razonamientos de los retos de Atenea del CCN-CERT
+Soluciones y razonamientos de los retos de [Atenea del CCN-CERT](https://atenea.ccn-cert.cni.es/home)
 
 ---
 
@@ -43,6 +43,6 @@ Para traducir de los valores ASCII a los caracteres se puede utilizar un mini-sc
 
 ### Hex
 
-Para convertir de hexadecimal a caracteres podemos usar el paquete xxd.
+Para convertir de hexadecimal a caracteres podemos usar el paquete [xxd](https://linux.die.net/man/1/xxd).
 
 `echo -n "50617373776f72643a2044346d7054686548337821" | xxd -r -p`
